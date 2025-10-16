@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Hüseyin Tarı!
 
-<!--
-**esermedias/esermedias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Minecraft Developer | Plugin Architect | Founder of [Corevia Bilişim Hizmetleri](https://coreviabilisim.net)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 8+ years experience in Minecraft plugin development  
+- Expert in Paper, Folia, multi-server architectures  
+- Specializing in custom OBF-protected solutions, backend systems, and database management  
+- Founder of Corevia Bilişim Hizmetleri: game infrastructure, custom plugins, licensing systems, automation tools  
+
+---
+
+## 🛠 Skills
+
+- **Languages:** Java, SQL, Kotlin (optional)  
+- **Frameworks:** Paper, Spigot, Folia, BungeeCord, Velocity  
+- **Databases:** MySQL, MariaDB, SQLite  
+- **Other:** Git, REST APIs, Async & Scheduler, GUI systems, performance optimization  
+
+---
+
+## 🌐 Projects
+
+- **[DonutSMP Crack Server](#)** – Turkey's first DonutSMP-based crack server, Dec 2024  
+- **Custom OBF Plugin Systems** – Closed source, production-ready plugins  
+- Various backend and automation projects for Minecraft servers  
+
+---
+
+## 📫 Contact Me
+
+- **Discord:** husecik  
+- **Company:** [Corevia Bilişim Hizmetleri](https://coreviabilisim.net)   
+
+---
+
+## ⚡ Fun Fact
+
+> Making Minecraft servers that actually scale, because TPS matters.
