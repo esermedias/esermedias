@@ -32,7 +32,7 @@
 
 ## 📫 Contact Me
 
-- **Discord:** husecik  
+- **Discord:** esuhsy  
 - **Company:** [Corevia Bilişim Hizmetleri](https://coreviabilisim.net)   
 
 ---
