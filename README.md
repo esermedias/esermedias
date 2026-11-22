@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Java-9%2B%20years-0d1117?style=flat-square&logo=openjdk&logoColor=f89820" alt="9+ years of Java">
   <img src="https://img.shields.io/badge/Focus-Folia-0d1117?style=flat-square&labelColor=0d1117&color=238636" alt="Focus: Folia">
   <img src="https://img.shields.io/badge/Commissions-open-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb" alt="Open for commissions">
+  <img src="https://komarev.com/ghpvc/?username=esermedias&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views">
 </p>
 
 ## About
@@ -117,7 +118,3 @@ These days most of my time goes into **Folia**. Regionized multithreading change
 ## Working together
 
 I take on custom plugin and server-system work, Folia projects in particular. Details and contact: **[esuh.wtf](https://esuh.wtf/)**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esermedias&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views">
-</p>
