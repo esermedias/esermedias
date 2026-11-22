@@ -1,62 +1,121 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=esuhdev&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Developer%20·%20Minecraft%20Tooling%20·%20Backend&descSize=18&descAlignY=60)
-
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=9%2B+years+writing+Java;Backend+systems+and+server+plugins;Founder+of+Corevia+Bilişim;Clean+code%2C+clear+configuration)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.coreviabilisim.net/"><img src="https://img.shields.io/badge/Corevia_Bilişim-1F6FEB?style=for-the-badge" alt="Corevia Bilişim"></a>
-  <a href="https://github.com/esermedias?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="esuhdev, Java developer and founder of Corevia Bilişim">
 </p>
 
-</div>
-
----
+<p align="center">
+  <a href="https://www.coreviabilisim.net/"><img src="https://img.shields.io/badge/coreviabilisim.net-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff" alt="Website"></a>
+  <img src="https://img.shields.io/badge/Java-9%2B%20years-0d1117?style=flat-square&logo=openjdk&logoColor=f89820" alt="9+ years of Java">
+  <img src="https://img.shields.io/badge/Focus-Folia-0d1117?style=flat-square&labelColor=0d1117&color=238636" alt="Focus: Folia">
+  <img src="https://img.shields.io/badge/Commissions-open-0d1117?style=flat-square&labelColor=0d1117&color=1f6feb" alt="Open for commissions">
+</p>
 
 ## About
 
-I have been writing Java for more than nine years, mostly backend services and plugins for Minecraft servers running on PaperMC and Spigot. I founded **Corevia Bilişim Hizmetleri** to build software for clients and communities, and I still write most of the code myself.
+I've been writing Java for more than nine years. Most of that time has gone into Minecraft server software: plugins, internal tooling and the backend pieces that hold a network together. I run **Corevia Bilişim Hizmetleri**, where I build custom systems for server owners and still write most of the code myself.
 
-What I care about most: code that is easy to read, easy to change, and configurable without forcing people to read the source.
+These days most of my time goes into **Folia**. Regionized multithreading changes the rules: schedulers, entity access and shared state all have to be designed around regions instead of a single main thread. Getting that right, and keeping it fast, is the part of the job I enjoy most.
 
-## Featured projects
+## Right now
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| [**CoreviaAchievement**](https://github.com/esermedias/CoreviaAchievement) | Achievement notifications for Minecraft servers with gradient and hex colors, configurable frames, sounds and hot reload. Supports Minecraft 1.16 to 1.21. | `Java 17` `Gradle` `Paper` `Spigot` |
-| [**CoShulker**](https://github.com/esermedias/CoShulker) | Open shulker boxes straight from the hand with a right-click, without placing them on the ground. Includes permissions, safety checks and customizable messages. | `Java 17` `Maven` `Paper API` |
+- Building plugins and server systems for Folia and Folia-based forks like CanvasMC
+- Custom work for client servers, written to their spec
+- Keeping public projects maintained when there's time between commissions
+
+## Selected work
+
+> Most of what I build is client work and lives in private repositories. What's here is the small, public slice.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/esermedias/CoreviaAchievement">CoreviaAchievement</a></h3>
+      <p>Achievement-style notifications for Minecraft servers. Gradient and hex colors, configurable frames, sounds and hot reload. Runs on 1.16 through 1.21.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-f89820?style=flat-square" alt="Java 17">
+        <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square" alt="Gradle">
+        <img src="https://img.shields.io/badge/Paper%20%2F%20Spigot-444c56?style=flat-square" alt="Paper / Spigot">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/esermedias/CoShulker">CoShulker</a></h3>
+      <p>Open a shulker box straight from your hand with a right-click, no placing it down first. Permission-based, with built-in safety checks and fully editable messages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-f89820?style=flat-square" alt="Java 17">
+        <img src="https://img.shields.io/badge/Maven-c71a36?style=flat-square" alt="Maven">
+        <img src="https://img.shields.io/badge/Paper_API-444c56?style=flat-square" alt="Paper API">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PaperMC-222222?style=for-the-badge&logo=paper&logoColor=white" alt="PaperMC">
-  <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white" alt="Spigot">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+<table>
+  <tr>
+    <td><b>Server platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Folia-238636?style=flat-square" alt="Folia">
+      <img src="https://img.shields.io/badge/CanvasMC-2ea043?style=flat-square" alt="CanvasMC">
+      <img src="https://img.shields.io/badge/Paper-1f6feb?style=flat-square" alt="Paper">
+      <img src="https://img.shields.io/badge/Purpur-8957e5?style=flat-square" alt="Purpur">
+      <img src="https://img.shields.io/badge/Spigot-ed8106?style=flat-square" alt="Spigot">
+      <img src="https://img.shields.io/badge/Velocity-1f6feb?style=flat-square" alt="Velocity">
+      <img src="https://img.shields.io/badge/BungeeCord-444c56?style=flat-square" alt="BungeeCord">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Language &amp; APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Adventure-444c56?style=flat-square" alt="Adventure">
+      <img src="https://img.shields.io/badge/MiniMessage-444c56?style=flat-square" alt="MiniMessage">
+      <img src="https://img.shields.io/badge/PlaceholderAPI-444c56?style=flat-square" alt="PlaceholderAPI">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Build &amp; tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=gradle&logoColor=white" alt="Gradle">
+      <img src="https://img.shields.io/badge/Maven-c71a36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
+      <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+      <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+    </td>
+  </tr>
+</table>
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esermedias&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esermedias&theme=github" alt="GitHub statistics">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esermedias&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esermedias&theme=github" alt="Most used languages">
+  </picture>
 </p>
 
-## Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=esermedias&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=3fb950&area=true&area_color=1f6feb&hide_border=true">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=esermedias&bg_color=ffffff&color=1f2328&line=0969da&point=1a7f37&area=true&area_color=54aeff&hide_border=true" alt="Contribution activity graph">
+  </picture>
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esermedias&theme=github_dark" alt="GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esermedias&theme=github_dark" alt="Most used languages">
-</div>
+## Working together
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=esermedias&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F2CC60&area=true&area_color=1F6FEB&hide_border=true" alt="Contribution activity graph">
-</div>
+I take on custom plugin and server-system work, Folia projects in particular. Details and contact: **[coreviabilisim.net](https://www.coreviabilisim.net/)**
 
-## Contact
-
-Business and project inquiries: [coreviabilisim.net](https://www.coreviabilisim.net/)
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=esermedias&label=Profile%20views&color=1F6FEB&style=flat-square)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esermedias&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views">
+</p>
