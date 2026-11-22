@@ -34,15 +34,17 @@ These days most of my time goes into **Folia**. Regionized multithreading change
         <img src="https://img.shields.io/badge/Java_17-f89820?style=flat-square" alt="Java 17">
         <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square" alt="Gradle">
         <img src="https://img.shields.io/badge/Paper%20%2F%20Spigot-444c56?style=flat-square" alt="Paper / Spigot">
+        <img src="https://img.shields.io/badge/Folia-238636?style=flat-square" alt="Folia">
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/esermedias/CoShulker">CoShulker</a></h3>
       <p>Open a shulker box straight from your hand with a right-click, no placing it down first. Permission-based, with built-in safety checks and fully editable messages.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java_17-f89820?style=flat-square" alt="Java 17">
-        <img src="https://img.shields.io/badge/Maven-c71a36?style=flat-square" alt="Maven">
+        <img src="https://img.shields.io/badge/Java_21-f89820?style=flat-square" alt="Java 21">
+        <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square" alt="Gradle">
         <img src="https://img.shields.io/badge/Paper_API-444c56?style=flat-square" alt="Paper API">
+        <img src="https://img.shields.io/badge/Folia-238636?style=flat-square" alt="Folia">
       </p>
     </td>
   </tr>
