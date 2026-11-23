@@ -28,6 +28,20 @@ These days most of my time goes into **Folia**. Regionized multithreading change
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/esermedias/esuh-addon">esuh Addon</a></h3>
+      <p>Client-side addon for the Anubis client on Minecraft 1.21.11. 39 modules for base hunting, visuals and utilities, shareable setting profiles and an embedded media player. Built and released from source with Gradle.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-f89820?style=flat-square" alt="Java 21">
+        <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square" alt="Gradle">
+        <img src="https://img.shields.io/badge/Fabric-dbd0b4?style=flat-square" alt="Fabric">
+        <img src="https://img.shields.io/badge/Anubis_1.0-c9a227?style=flat-square" alt="Anubis 1.0">
+        <img src="https://img.shields.io/badge/Mixin-444c56?style=flat-square" alt="Mixin">
+        <img src="https://img.shields.io/badge/39_modules-3ddc97?style=flat-square" alt="39 modules">
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/esermedias/CoreviaAchievement">CoreviaAchievement</a></h3>
       <p>Achievement-style notifications for Minecraft servers. Gradient and hex colors, configurable frames, sounds and hot reload. Runs on 1.16 through 1.21.</p>
