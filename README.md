@@ -92,12 +92,37 @@ These days most of my time goes into **Folia**. Regionized multithreading change
     </td>
   </tr>
   <tr>
+    <td><b>Server internals</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NMS_(Mojang_mappings)-444c56?style=flat-square" alt="NMS (Mojang mappings)">
+      <img src="https://img.shields.io/badge/Netty-444c56?style=flat-square" alt="Netty">
+      <img src="https://img.shields.io/badge/paperweight-444c56?style=flat-square" alt="paperweight">
+      <img src="https://img.shields.io/badge/Folia_schedulers-238636?style=flat-square" alt="Folia schedulers">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Client modding</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Fabric-dbd0b4?style=flat-square" alt="Fabric">
+      <img src="https://img.shields.io/badge/Mixin-444c56?style=flat-square" alt="Mixin">
+      <img src="https://img.shields.io/badge/Anubis_addons-c9a227?style=flat-square" alt="Anubis addons">
+    </td>
+  </tr>
+  <tr>
     <td><b>Language &amp; APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Adventure-444c56?style=flat-square" alt="Adventure">
       <img src="https://img.shields.io/badge/MiniMessage-444c56?style=flat-square" alt="MiniMessage">
       <img src="https://img.shields.io/badge/PlaceholderAPI-444c56?style=flat-square" alt="PlaceholderAPI">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bots &amp; services</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/discord.js-5865f2?style=flat-square&logo=discorddotjs&logoColor=white" alt="discord.js">
     </td>
   </tr>
   <tr>
@@ -114,6 +139,8 @@ These days most of my time goes into **Folia**. Regionized multithreading change
       <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=gradle&logoColor=white" alt="Gradle">
       <img src="https://img.shields.io/badge/Maven-c71a36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
       <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/JUnit_5-25a162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
       <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
     </td>
