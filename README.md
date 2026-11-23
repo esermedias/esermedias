@@ -28,7 +28,7 @@ These days most of my time goes into **Folia**. Regionized multithreading change
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/esermedias/esuh-addon">esuh Addon</a></h3>
       <p>Client-side addon for the Anubis client on Minecraft 1.21.11. 39 modules for base hunting, visuals and utilities, shareable setting profiles and an embedded media player. Built and released from source with Gradle.</p>
       <p>
@@ -38,6 +38,17 @@ These days most of my time goes into **Folia**. Regionized multithreading change
         <img src="https://img.shields.io/badge/Anubis_1.0-c9a227?style=flat-square" alt="Anubis 1.0">
         <img src="https://img.shields.io/badge/Mixin-444c56?style=flat-square" alt="Mixin">
         <img src="https://img.shields.io/badge/39_modules-3ddc97?style=flat-square" alt="39 modules">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/esermedias/OGGuard">OGGuard</a></h3>
+      <p>Packet-level anti-xray and anti-ESP for CanvasMC, Folia and Paper 1.21.11. Hides underground bases and out-of-sight containers in the data sent to each player, without touching the world.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-f89820?style=flat-square" alt="Java 21">
+        <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square" alt="Gradle">
+        <img src="https://img.shields.io/badge/Paper_NMS-444c56?style=flat-square" alt="Paper NMS">
+        <img src="https://img.shields.io/badge/Netty-444c56?style=flat-square" alt="Netty">
+        <img src="https://img.shields.io/badge/Folia-238636?style=flat-square" alt="Folia">
       </p>
     </td>
   </tr>
