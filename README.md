@@ -109,13 +109,24 @@ These days most of my time goes into **Folia**. Regionized multithreading change
     </td>
   </tr>
   <tr>
-    <td><b>Language &amp; APIs</b></td>
+    <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
       <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Minecraft APIs</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Adventure-444c56?style=flat-square" alt="Adventure">
       <img src="https://img.shields.io/badge/MiniMessage-444c56?style=flat-square" alt="MiniMessage">
       <img src="https://img.shields.io/badge/PlaceholderAPI-444c56?style=flat-square" alt="PlaceholderAPI">
+      <img src="https://img.shields.io/badge/PacketEvents-444c56?style=flat-square" alt="PacketEvents">
+      <img src="https://img.shields.io/badge/LuckPerms_API-444c56?style=flat-square" alt="LuckPerms API">
+      <img src="https://img.shields.io/badge/Vault_API-444c56?style=flat-square" alt="Vault API">
     </td>
   </tr>
   <tr>
@@ -129,8 +140,20 @@ These days most of my time goes into **Folia**. Regionized multithreading change
     <td><b>Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" alt="Redis">
       <img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+      <img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+      <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
     </td>
   </tr>
   <tr>
@@ -142,7 +165,6 @@ These days most of my time goes into **Folia**. Regionized multithreading change
       <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
       <img src="https://img.shields.io/badge/JUnit_5-25a162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
-      <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
     </td>
   </tr>
 </table>
